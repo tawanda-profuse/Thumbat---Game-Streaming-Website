@@ -18,7 +18,7 @@
 }
 
 body {
-  /* font-family: 'Lato', sans-serif; */
+  scroll-behavior: smooth;
   font-family: 'Dela Gothic One', cursive;
   color: #333;
   line-height: 1.6;
